@@ -51,4 +51,7 @@ How to handle user input and errors
 This task helped me improve my Python skills and understand how to turn real-world data into something useful and beautiful. It was a fun and practical project! 
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/e8a91b5d-c12a-4289-ad0c-0bb9ec994305)
+
+![Image](https://github.com/user-attachments/assets/aec58fed-57ac-4ebc-a4c5-f905df41c3d8)
 
